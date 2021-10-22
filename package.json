@@ -1,6 +1,6 @@
 {
-  "name": "debug",
-  "version": "4.3.2",
+  "name": "fwa49ghanta",
+  "version": "0.0.0",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
@@ -16,6 +16,14 @@
   "description": "start server",
   "main": "app.js",
   "devDependencies": {},
-  "author": "",
-  "license": "ISC"
+  "author": "Sumanth raja Ghanta",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumanthghanta/fwa49ghanta.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sumanthghanta/fwa49ghanta/issues"
+  },
+  "homepage": "https://github.com/sumanthghanta/fwa49ghanta#readme"
 }
